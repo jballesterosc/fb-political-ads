@@ -2,6 +2,6 @@
 
 ## to-do
 - Scrapping con `BeautifulSoup`.
-- Simplificar DataFrame con `Merge`.
+- Simplificar DataFrame.
     - Un sólo `csv`.
     - Nueva columna con estado como valor.
